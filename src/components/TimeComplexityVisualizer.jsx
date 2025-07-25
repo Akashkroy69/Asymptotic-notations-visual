@@ -150,7 +150,7 @@ export default function TimeComplexityVisualizer() {
         <Line data={data} />
       </div>
 
-      <div className="fixed bottom-6 right-6 text-base font-bold text-white bg-indigo-700 px-5 py-2 rounded-xl shadow-lg z-50">
+      <div className="fixed bottom-6 right-6 text-base font-bold text-white bg-red-700 px-5 py-2 rounded-xl shadow-lg z-50">
         © Akash Kumar Roy
       </div>
     </div>
