@@ -144,11 +144,23 @@ export default function TimeComplexityVisualizer() {
           />
           <p className="text-sm">Max n = {maxN}</p>
         </div>
-      </div>
+        <div>
+          <a
+            href="https://spangled-airport-56f.notion.site/Warm-up-Practice-Questions-on-Time-Complexity-Of-Algorithms-23876128a3ef80438078cfb416685265"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block text-lg text-blue-900 underline mt-4 bold"
+          >
+            📘 View Asymptotic Notation Notes
+          </a>
+        </div>
 
+      </div>
       <div>
         <Line data={data} />
       </div>
+      
+      
 
       <div className="fixed bottom-6 right-6 text-base font-bold text-white bg-red-700 px-5 py-2 rounded-xl shadow-lg z-50">
         © Akash Kumar Roy
