@@ -151,7 +151,7 @@ export default function TimeComplexityVisualizer() {
             rel="noopener noreferrer"
             className="inline-block text-lg text-blue-900 underline mt-4 bold"
           >
-            📘 View Asymptotic Notation Notes
+            📘 View Notes On Time Complexity And Asymptotic Notations
           </a>
         </div>
 
